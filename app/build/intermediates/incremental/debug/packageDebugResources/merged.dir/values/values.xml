@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">lab3</string>
+    <string name="dont_call_me_that">Don\'t call me that</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="next">Next</string>
+    <string name="thank_you">Thank You</string>
+    <string name="welcome">Welcome!</string>
+    <string name="welcome_message">Welcome %s!</string>
+    <style name="Base.Theme.Lab3" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Lab3" parent="Base.Theme.Lab3"/>
+</resources>

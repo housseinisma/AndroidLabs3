@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome!</string>
+    <string name="welcome_message">Welcome %s!</string>
+    <string name="thank_you">Thank You</string>
+    <string name="dont_call_me_that">Don\'t call me that</string>
+</resources>

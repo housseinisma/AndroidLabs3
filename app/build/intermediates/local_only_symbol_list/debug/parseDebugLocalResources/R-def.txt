@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id dontCallMeThatButton
+id nameEditText
+id nextButton
+id thankYouButton
+id welcomeTextView
+layout activity_main
+layout activity_name
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string dont_call_me_that
+string enter_your_name
+string next
+string thank_you
+string welcome
+string welcome_message
+style Base.Theme.Lab3
+style Theme.Lab3
+xml backup_rules
+xml data_extraction_rules
